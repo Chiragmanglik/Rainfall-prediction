@@ -6,3 +6,4 @@ scikit-learn
 xgboost
 Flask  # Or FastAPI for serving
 gunicorn
+imbalanced-learn
